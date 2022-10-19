@@ -1,0 +1,10 @@
+t = ("hello", "world", 98)
+print(t)
+d = {"name": "赵烯桥", "age": "19"}
+print(d, type(d))
+print(d.keys(), type(d.keys()))
+print(d.values(), type(d.values()))
+key = d.keys()
+value = d.values()
+print(key, type(key))
+print(value, type(value))

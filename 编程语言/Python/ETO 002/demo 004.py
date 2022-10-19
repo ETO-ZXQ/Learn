@@ -1,0 +1,17 @@
+''' range 使用 '''
+
+r = range(10)
+print(r)
+print(list(r))
+print(id(r))
+print("--------------------------------")
+r = range(1, 10)
+print(r)
+print(list(r))
+print(id(r))
+print("--------------------------------")
+r = range(1, 20, 2)
+print(r)
+print(list(r))
+print(id(r))
+print("--------------------------------")
