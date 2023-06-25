@@ -2,7 +2,7 @@
 
 ---
 
-## 编程语言
+## 编程
 
 ### **C/C++**
 
@@ -44,6 +44,18 @@
 
 - IDE：Visual Studio 2019
 
+#### C++提高（引用、类与对象、模板、C++STL）
+
+- 时间：2023年1月（大二上寒假）
+- 项目：<蓝桥杯备赛>
+- 渠道：
+  - 书籍  
+    - 《C++ Primer Plus（第6版）中文版》
+  - B站视频教程
+    - [黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z/?spm_id_from=333.337.search-card.all.click)
+
+- IDE：Dev C++
+
 ### **Python**
 
 #### Python基础
@@ -57,10 +69,95 @@
     - [花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)](https://www.bilibili.com/video/BV1wD4y1o7AS/?spm_id_from=333.337.search-card.all.click)
 - IDE：PyCharm Community Edition
 
+#### Python类（加深）
+
+- 时间：2022年10月（大二上）
+- 项目：<RM实验室视觉组考核>
+- 渠道：
+  - B站视频教程
+    - [Python类和模块(Class, Module)【Python一周入门教程6】](https://www.bilibili.com/video/BV1UE411R7mq/)
+    - [8分钟！彻底搞懂Python类变量与实例变量](https://www.bilibili.com/video/BV1N5411t7EH/)
+    - [[29] Python 类继承 | 老鼠的儿子会打洞](https://www.bilibili.com/video/BV1ZW4y127Vp/)
+    - [黑马程序员Python教程_600集Python从入门到精通教程（懂中文就能学会）](https://www.bilibili.com/video/BV1ex411x7Em/)
+    - [【python】B站最细致的super()详解，一定有你不知道的知识！](https://www.bilibili.com/video/BV1FL4y1E7xK/)
+    - [60-Python-面向对象-内置特殊方法-__call__-概念和使用](https://www.bilibili.com/video/BV147411c7Ry/)
+  - 网站
+    - [Python3 面向对象 | 菜鸟教程](https://www.runoob.com/python3/python3-class.html)
+    - [Python super() 函数 | 菜鸟教程](https://www.runoob.com/python/python-func-super.html)
+    - [Python __call__()方法（详解版）](http://c.biancheng.net/view/2380.html)
+- IDE：PyCharm Community Edition
+
+### **多线程**
+
+#### 多线程基础（C++）
+
+- 时间：2023年1月（大二上寒假）
+- 项目：<RM第二十届备赛>
+- 渠道：
+  - B站视频教程
+    - [多线程编程：一次性搞懂线程同步机制](https://www.bilibili.com/video/BV1oQ4y1C73G/)
+    - [【操作系统】进程和线程的区别](https://www.bilibili.com/video/BV1Wr4y1P7Yr/)
+    - [进程和线程是什么关系？有什么区别？](https://www.bilibili.com/video/BV1VW411L7bF/)
+    - [多线程和线程同步-C/C++](https://www.bilibili.com/video/BV1sv41177e4/)
+    - [面试官求放过，快被问烂的线程池，二十分钟给你讲的明明白白](https://www.bilibili.com/video/BV1dt4y1i7Gt/)
+    - [线程池工作原理和实现 - 【C语言版 】C/C++](https://www.bilibili.com/video/BV1jV411J795/)
+  - 帖子
+    - [cpu 核心数与线程数](https://zhuanlan.zhihu.com/p/86855590)
+    - [进程与线程](https://blog.csdn.net/weixin_43884234/article/details/114954221)
+    - [进程和线程的区别(超详细)](https://blog.csdn.net/ThinkWon/article/details/102021274)
+    - [终于有人把进程与线程讲清楚了 - 知乎](https://zhuanlan.zhihu.com/p/258049386)
+
+### **编译**
+
+#### CMake
+
+- 时间：2023年1月（大二上寒假）
+- 项目：<RM第二十届备赛>
+- 渠道：
+  - B站视频教程
+    - [软件构建: CMake 快速入门](https://www.bilibili.com/video/BV1rR4y1E7n9/)
+    - [从零开始详细介绍CMake](https://www.bilibili.com/video/BV1vR4y1u77h/)
+  - 帖子
+    - [全网最细的CMake教程！(强烈建议收藏) - 知乎](https://zhuanlan.zhihu.com/p/534439206)
+    - [Linux下CMake简明教程](https://blog.csdn.net/whahu1989/article/details/82078563)
+ 
+
+
+---
 ---
 
+## 数据结构与算法
+
+### **数据结构与算法**
+
+#### 数据结构与算法基础
+
+- 时间：2023年1月（大二上寒假）
+- 项目：<蓝桥杯备赛>
+- 渠道：
+  - 书籍
+    - 《算法图解》
+    - 《大话数据结构【溢彩加强版】》
+  - B站视频教程
+    - [黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z/?spm_id_from=333.337.search-card.all.click)
+    - [2023数据结构与算法【算法基础班、实战与教学同步】](https://www.bilibili.com/video/BV13v4y1Q7uq/)
+- 刷题平台：
+  - [首页 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/)
+  - [题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台](https://leetcode.cn/problemset/all/)
+  - [题库 - 蓝桥云课](https://www.lanqiao.cn/problems/)
+
+- IDE：Dev C++、Visual Studio 2019
 
 
+
+
+
+
+
+
+
+
+---
 ---
 
 ## 操作系统
@@ -75,8 +172,34 @@
   - B站视频教程
     - [黑马程序员Python教程_600集Python从入门到精通教程（懂中文就能学会）](https://www.bilibili.com/video/BV1ex411x7Em/)【前半部分】
 
----
+#### Linux系统目录、Linux命令、Linux环境变量
 
+- 时间：2023年3月（大二下）
+- 项目：<RM第二十届备赛>
+- 内容：
+  - [Linux文件目录结构一览表](http://c.biancheng.net/view/2833.html)
+  - [Linux【基础篇】—— linux操作系统目录结构、运行级别介绍](https://blog.csdn.net/weixin_53072519/article/details/123443658)
+  - [40个最常用的Linux命令行大全 - 知乎](https://zhuanlan.zhihu.com/p/420247468)
+  - [Linux命令大全(超详细版)_linux命令行大全_第二范式的博客-CSDN博客](https://blog.csdn.net/weixin_44191814/article/details/120091363)
+  - [Linux 命令大全 | 菜鸟教程](https://www.runoob.com/linux/linux-command-manual.html)
+  - [Linux下source命令详解 - 水车 - 博客园](https://www.cnblogs.com/shuiche/p/9436126.html)
+  - [Linux环境变量_橙子@C的博客-CSDN博客](https://blog.csdn.net/qq_41962968/article/details/122152904)
+  - [Linux环境变量配置全攻略 - 悠悠i - 博客园](https://www.cnblogs.com/youyoui/p/10680329.html)
+  - [什么是.bashrc，有什么用?](https://blog.csdn.net/Heyyellman/article/details/111565781)
+
+#### Shell脚本、Linux定时、自启动、程序监测
+
+- 时间：2023年3月（大二下）
+- 项目：<RM第二十届备赛>
+- 内容：
+  - [Shell 教程 | 菜鸟教程](https://www.runoob.com/linux/linux-shell.html)
+  - [Linux Crontab 定时任务 | 菜鸟教程](https://www.runoob.com/w3cnote/linux-crontab-tasks.html)
+  - [Linux crontab 命令 | 菜鸟教程](https://www.runoob.com/linux/linux-comm-crontab.html)
+  - [Linux 定时任务详解_linux定时任务_永远是少年啊的博客-CSDN博客](https://blog.csdn.net/weixin_40228200/article/details/120711676)
+  - [Linux系统设置开机自动运行脚本的方法实例 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1711876)
+  - [linux检测程序是否挂掉并自动重新运行的脚本_wssjn1994的博客-CSDN博客](https://blog.csdn.net/wssjn1994/article/details/83010202)
+
+---
 
 
 ---
@@ -101,14 +224,13 @@
 ---
 
 
-
 ---
 
 ## 爬虫
 
 ### **Python爬虫**
 
-#### **Python爬虫基础**
+#### Python爬虫基础
 
 - 时间：2022年6月（大一下期末暑假中）
 - 项目：<心血来潮！想实现每日自动健康打卡>
@@ -183,6 +305,9 @@
     - [大白话讲解卷积神经网络工作原理](https://www.bilibili.com/video/BV1sb411P7pQ/?spm_id_from=333.337.search-card.all.click)
     - [图解，卷积神经网络（CNN可视化）](https://www.bilibili.com/video/BV1x44y1P7s2/?spm_id_from=333.337.search-card.all.click)
     - [3分钟看懂图像识别和卷积神经网络](https://www.bilibili.com/video/BV1AL4y1b7er/?spm_id_from=333.337.search-card.all.click)
+  - CSDN
+    - [Pytorch中的forward的理解](https://blog.csdn.net/m0_49963403/article/details/124542328)
+    - [优化器(Optimizer)（SGD、Momentum、AdaGrad、RMSProp、Adam）](https://blog.csdn.net/tcn760/article/details/123965374)
 - 环境：
   - 语言：Python
   - 框架：PaddlePaddle
@@ -206,6 +331,28 @@
   
 - 开发项目
   - 识别螺丝与垫片（VOC数据集）
+
+#### YOLOv5
+
+- 时间：2022年11月（大二上）
+- 项目：<RM第二十届备赛>
+- 内容：
+  - 复习：[【yolov3详解】一文让你读懂yolov3目标检测原理](https://blog.csdn.net/weixin_39615182/article/details/109752498)
+  - 复习：[【深度学习小常识】什么是mAP？-CSDN博客](https://blog.csdn.net/shuiyixin/article/details/86349643)
+  - [mAP@0.5与mAP@0.5:0.95的含义，YOLO-CSDN博客](https://blog.csdn.net/perfect_ch/article/details/117480528)
+  - [YOLOv5网络详解](https://www.bilibili.com/video/BV1T3411p7zR/)
+  - [yolov5源码解析(9)--输出](https://blog.csdn.net/ogebgvictor/article/details/127481011)
+  - [带你一行行读懂yolov5代码，yolov5源码](https://www.bilibili.com/video/BV1Dt4y1x7Fz)
+  - [Yolov5自定义图片训练测试及模型调优（详细过程）-CSDN博客](https://blog.csdn.net/HowieXue/article/details/118463534)
+
+- 环境：
+  - 语言：Python
+  - 框架：PaddlePaddle
+  - [开源项目 - 飞桨AI Studio - 人工智能学习实训社区](https://aistudio.baidu.com/aistudio/projectoverview/)
+
+- 开发项目
+  - 识别光栅
+  - 区分识别无遮挡人脸与戴口罩人脸
 
 ### **人脸识别**
 
@@ -232,6 +379,28 @@
   - 调用USB摄像头拍照
   - 1对1、1对N、N对N，图片间人脸识别
   - 摄像头下实时人脸识别
+
+### **相机标定**
+
+#### 通识
+
+- 时间：2022年11月（大二上）
+- 项目：<RM第二十届备赛>
+- 渠道：
+  - [3.1 相机标定的基本概念](https://www.bilibili.com/video/BV14A4y1o7Em/)
+  - [从相机模型到立体视觉（内含相机标定）](https://www.bilibili.com/video/BV18J411U7DS/)
+  - [计算机视觉-相机标定(Camera Calibration)](https://blog.csdn.net/weixin_43890415/article/details/117084459)
+  - 相机标定教程：[使用Matlab做相机标定（获取相机的内外参数矩阵）](https://blog.csdn.net/weixin_45718019/article/details/105823053)
+
+#### PnP
+
+- 时间：2022年11月（大二上）
+- 项目：<RM第二十届备赛>
+- 渠道：
+  - [PnP(Perspective-n-Point)问题：各种算法总结分析 - 知乎](https://zhuanlan.zhihu.com/p/399140251)
+  - [视觉SLAM位姿求解方法-P3P：基本原理与代码讲解（待更新） - 知乎](https://zhuanlan.zhihu.com/p/140077137)
+  - [ICP算法的原理与实现](https://blog.csdn.net/kksc1099054857/article/details/80280964)
+
 
 ---
 
@@ -289,5 +458,15 @@
   - 网站
     - [正则表达式 – 语法 | 菜鸟教程](https://www.runoob.com/regexp/regexp-syntax.html)
     - [RegExr: 学习、构建和测试正则](https://regexr-cn.com/)
+
+### 卡尔曼滤波
+
+- 时间：2022年11月（大二上）
+- 项目：<RM第二十届备赛>
+- 渠道：
+  - [KalmanFilter.NET](https://www.kalmanfilter.net/CN/default_cn.aspx)
+  - [从放弃到精通！卡尔曼滤波从理论到实践~](https://www.bilibili.com/video/BV1Rh41117MT/)
+  - [基于卡尔曼滤波算法在三维球轨迹中跟踪应用](https://blog.csdn.net/cuixing001/article/details/84203398)
+  - C++矩阵运算库：[Eigen库学习教程(全)](https://blog.csdn.net/hongge_smile/article/details/107296658)
 
 ---
